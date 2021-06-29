@@ -1,16 +1,18 @@
 ### Hi there 👋
+![](https://gpvc.arturio.dev/KiLien)
 
-<!--
-**iShawnWang/iShawnWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Piano & Synthesizer
+- 👯 I’m looking to collaborate on Music Band
+- 💬 Ask me Anything
+- 📫 How to reach me: iShawnWang2333@gmail.com
+- 😄 Pronouns: fat nerd, caring
+- 📍 Liaoning Shenyang (Shanghai currently)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+More details on [iShawn.Wang](https://www.ishawn.wang/)
+
+### Github Stats
+![](https://github-readme-stats.vercel.app/api?username=iShawnWang&count_private=true&theme=dark)
+
+
