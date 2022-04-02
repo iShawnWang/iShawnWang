@@ -3,7 +3,6 @@
 
 
 - 🌱 I’m currently learning Piano & Synthesizer
-- 👯 I’m looking to collaborate on Music Band
 - 💬 Ask me Anything
 - 📫 How to reach me: iShawnWang2333@gmail.com
 - 😄 Pronouns: fat nerd, caring
