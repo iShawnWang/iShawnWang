@@ -6,7 +6,7 @@
 - 💬 Ask me Anything
 - 📫 How to reach me: iShawnWang2333@gmail.com
 - 😄 Pronouns: fat nerd, caring
-- 📍 Liaoning Shenyang (Shanghai currently)
+- 📍 Liaoning Shenyang (Working in Shanghai currently)
 
 
 More details on [iShawn.Wang](https://www.ishawn.wang/)
