@@ -7,6 +7,7 @@
 - 📫 How to reach me: iShawnWang2333@gmail.com
 - 😄 Pronouns: fat nerd, caring
 - 📍 Liaoning Shenyang (Working in Shanghai currently)
+- 💡**MBTI** : Assertive Architect([INTJ-A](https://www.16personalities.com/ch/INTJ-%E4%BA%BA%E6%A0%BC))
 
 
 More details on [iShawn.Wang](https://www.ishawn.wang/)
