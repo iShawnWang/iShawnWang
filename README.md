@@ -2,7 +2,7 @@
 ![](https://gpvc.arturio.dev/KiLien)
 
 
-- 🌱 I’m currently learning Piano & Synthesizer
+- 🌱 I’m currently learning Piano & Synthesizer & Arrangement
 - 💬 Ask me Anything
 - 📫 How to reach me: iShawnWang2333@gmail.com
 - 😄 Pronouns: fat nerd, caring
